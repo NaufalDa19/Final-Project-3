@@ -1,0 +1,12 @@
+Nama 		:	Ali
+Nim 		:	110120
+Rata-rata 	:	88.0
+Grade 		:	A
+Keterangan 	:	Lulus
+
+Nama 		:	Undang
+Nim 		:	11012000
+Rata-rata 	:	76.25
+Grade 		:	AB
+Keterangan 	:	Lulus
+
